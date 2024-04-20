@@ -17,3 +17,8 @@ how files relate with each other, refer to important files
 # Improvements
 
 
+
+todo:
+pick important questions
+plot 'replies_over_time'
+
