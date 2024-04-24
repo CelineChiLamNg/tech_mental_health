@@ -26,6 +26,11 @@ need to calculate available_data for all 12 questions and visualize in barplots
 need to treat outliers 
 visualize the distribution of the answers for each question
 
+
+modules for funcitons:
+to_boolean_none 
+yes_no_to_boolean
+
 user_questions = [1, 2, 3, 4, 5, 13, 20, 21, 22]
 mental_health_questions = [6, 7]
 company_questions = [8, 9]
