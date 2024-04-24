@@ -21,7 +21,10 @@ how files relate with each other, refer to important files
 todo:
 pick important questions - questions present in all 5 surveys so we can 
 compare.
-3. quesionid, surveyid, userid, answertext
+3. rn cleaning up odd replies from users
+need to calculate available_data for all 12 questions and visualize in barplots
+need to treat outliers 
+visualize the distribution of the answers for each question
 
 user_questions = [1, 2, 3, 4, 5, 13, 20, 21, 22]
 mental_health_questions = [6, 7]
