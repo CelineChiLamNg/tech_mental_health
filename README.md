@@ -15,13 +15,15 @@ how files relate with each other, refer to important files
 # Recommendations
 
 # Improvements
+1. For section 3, preparing the answers for the questions, I could create one 
+   only dataset with 12 columns, instead of 12 datasets.  
 
 
 
-todo:
+TODO:
 pick important questions - questions present in all 5 surveys so we can 
 compare.
-3. rn cleaning up odd replies from users
+3. rn cleaning up odd replies from users \ 
 need to calculate available_data for all 12 questions and visualize in barplots
 need to treat outliers 
 visualize the distribution of the answers for each question
