@@ -24,12 +24,13 @@ TODO:
 pick important questions - questions present in all 5 surveys so we can 
 compare.
 3. rn cleaning up odd replies from users \ 
-need to calculate available_data for all 12 questions and visualize in barplots
+need to calculate available_data for all 12 questions and visualize in 
+   barplots\
 need to treat outliers 
-visualize the distribution of the answers for each question
+visualize the distribution of the answers for each question 
 
 
-modules for funcitons:
+modules for functions:
 to_boolean_none 
 yes_no_to_boolean
 
