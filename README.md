@@ -28,11 +28,15 @@ need to calculate available_data for all 12 questions and visualize in
    barplots\
 need to treat outliers 
 visualize the distribution of the answers for each question 
-
+plot geofolium for question 3,4
+keep only data where QuestionID == 9 & AnswerText == True
+tech industry. non tech industry?
 
 modules for functions:
 to_boolean_none 
 yes_no_to_boolean
+normalized_category
+normalized_category_barplot
 
 user_questions = [1, 2, 3, 4, 5, 13, 20, 21, 22]
 mental_health_questions = [6, 7]
