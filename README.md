@@ -29,8 +29,7 @@ need to calculate available_data for all 12 questions and visualize in
 need to treat outliers 
 visualize the distribution of the answers for each question 
 plot geofolium for question 3,4
-keep only data where QuestionID == 9 & AnswerText == True
-tech industry. non tech industry?
+compare tech vs non tech on questioins 10-12
 
 modules for functions:
 to_boolean_none 
