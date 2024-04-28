@@ -28,10 +28,12 @@ compare.
 3. rn cleaning up odd replies from users \ 
 need to calculate available_data for all 12 questions and visualize in 
    barplots\
-need to treat outliers 
-visualize the distribution of the answers for each question 
-plot geofolium for question 3,4
-compare tech vs non tech on questioins 10-12
+need to treat outliers \
+visualize the distribution of the answers for each question \
+plot geofolium for question 3,4\
+4. compare tech industry and gender on questioins 10-12
+find key questions that are present in years 2017 above: 85, 64, 65, 15-19, 
+   56, 21, 60
 
 modules for functions:
 to_boolean_none 
