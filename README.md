@@ -16,7 +16,9 @@ how files relate with each other, refer to important files
 
 # Improvements
 1. For section 3, preparing the answers for the questions, I could create one 
-   only dataset with 12 columns, instead of 12 datasets.  
+   only dataset with 12 columns, instead of 12 datasets.
+2. Could try to calculate post-hoc for chi-square
+3. Normalize number of users to the population of each country, state.
 
 
 
@@ -36,6 +38,7 @@ to_boolean_none
 yes_no_to_boolean
 normalized_category
 normalized_category_barplot
+contingency_table
 
 user_questions = [1, 2, 3, 4, 5, 13, 20, 21, 22]
 mental_health_questions = [6, 7]
