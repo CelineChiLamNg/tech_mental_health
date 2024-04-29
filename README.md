@@ -23,17 +23,23 @@ how files relate with each other, refer to important files
 
 
 TODO:
-pick important questions - questions present in all 5 surveys so we can 
-compare.
-3. rn cleaning up odd replies from users \ 
-need to calculate available_data for all 12 questions and visualize in 
-   barplots\
-need to treat outliers \
-visualize the distribution of the answers for each question \
-plot geofolium for question 3,4\
 4. compare tech industry and gender on questioins 10-12
-find key questions that are present in years 2017 above: 85, 64, 65, 15-19, 
-   56, 21, 60
+how to compare:
+I want to understand what the users stance/opinion and how are the 
+   companies dealing to mental health issues (officially and actually)
+-seems that trust, communication between 2 parties and social awareness are 
+lacking
+- there is visual correlation between people with families with mental 
+  health and number of users seeking therapists. Between less tech 
+  companies and more people are seeking for therapists. Between more 
+  females and more people seeking for therapists. But how are people feeling?
+also, more companies are providing mental health coverage. Anonymity barely 
+  improved (unclear correlation). Users choose not to bring up mental health
+  (hasn't changed over years)
+- 
+-seems that tech industry has worse mental health than other industries
+- seems that female are having a better with this mental health situation
+
 
 modules for functions:
 to_boolean_none 
