@@ -32,13 +32,26 @@ lacking
 - there is visual correlation between people with families with mental 
   health and number of users seeking therapists. Between less tech 
   companies and more people are seeking for therapists. Between more 
-  females and more people seeking for therapists. But how are people feeling?
+  females and more people seeking for therapists.
 also, more companies are providing mental health coverage. Anonymity barely 
   improved (unclear correlation). Users choose not to bring up mental health
   (hasn't changed over years)
 - 
 -seems that tech industry has worse mental health than other industries
 - seems that female are having a better with this mental health situation
+
+
+calculate correlation between increase of number of non tech users, and 
+users seeking help
+AND/OR
+plot in separate plots, tech and non tech users for questions 10-12 or key 
+questions, to understand if there is more trust and communication in non tech industry
+calculate the null hypothesis to confirm difference
+
+pd.crosttab / pivot
+chi-test
+https://pandas.pydata.org/docs/reference/api/pandas.crosstab.html
+https://stackoverflow.com/questions/48035381/correlation-among-multiple-categorical-variables
 
 
 modules for functions:
