@@ -17,8 +17,11 @@ how files relate with each other, refer to important files
 # Improvements
 1. For section 3, preparing the answers for the questions, I could create one 
    only dataset with 12 columns, instead of 12 datasets.
-2. Could try to calculate post-hoc for chi-square
+2. Could try to calculate post-hoc for chi-square tests.
 3. Normalize number of users to the population of each country, state.
+4. Create perform chi-square tests to check significance in difference in 
+   section 3.4. 
+5. Dive deeper to other questions from the survey.
 
 
 
@@ -39,7 +42,11 @@ also, more companies are providing mental health coverage. Anonymity barely
 - 
 -seems that tech industry has worse mental health than other industries
 - seems that female are having a better with this mental health situation
+4. Proportion-wise, more surveyed individuals are from outside the tech 
+industry, and the number of people seeking help has been increasing.This might suggest that those outside of tech are more likely to participate in therapy. Alternatively, it could indicate that everyone is increasingly likely to use therapy.
 
+5. There are more women in tech, and more people are seeking out help. 
+Perhaps it's the women?"
 
 calculate correlation between increase of number of non tech users, and 
 users seeking help
