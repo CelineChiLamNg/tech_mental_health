@@ -25,6 +25,9 @@ mental health data: 'mental_health.sqlite' <br />
 US map data: 'cb_2018_us_state_500k'<br />
 <br />
 
+# US map
+![img_1.png](img_1.png)
+
 # Improvements
 1. For section 3, preparing the answers for the questions, I could create one 
    only dataset with 12 columns, instead of 12 datasets.
